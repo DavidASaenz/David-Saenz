@@ -3,7 +3,7 @@ background-color:black;
 }
 
 header div {
-  background-image: url("/pictures/pexels-felix-mittermeier-956999.jpg");
+  background-image: url("./pictures/pexels-felix-mittermeier-956999.jpg");
 }
 
 header h1 {
@@ -89,7 +89,7 @@ hr {
 	border: none;
   margin-top: 30px;
   margin-bottom: 20px;
-	background-image: url("/pictures/hr-ross-cooper-2.png");
+	background-image: url("./pictures/hr-ross-cooper-2.png");
 }
 
 ol{
@@ -108,7 +108,7 @@ iframe{
 }
 
 footer div{
-  background-image: url("/pictures/pexels-felix-mittermeier-956999.jpg");
+  background-image: url("./pictures/pexels-felix-mittermeier-956999.jpg");
   width: 100%;
   height: 60px;
 }
