@@ -10,7 +10,7 @@ header h1 {
   font-size: 40px;
   text-align: center;
   color: lightblue;
-  font-family: bradley hand, cursive;
+  font-family: Sans-Serif;
 margin-top: 0px;
 margin-bottom: 0px;
 
@@ -20,7 +20,7 @@ header h2 {
   font-size: 20px;
   text-align: center;
   color: lightblue;
-  font-family: bradley hand, cursive;
+  font-family: Sans-Serif;
 
 }
 
@@ -28,7 +28,7 @@ header h3 {
   font-size: 13px;
   text-align: center;
   color: lightblue;
-  font-family: bradley hand, cursive;
+  font-family: Sans-Serif;
   margin-top:0px;
   padding-bottom: 50px;
 }
@@ -42,7 +42,7 @@ main div header h2 {
   font-size: 20px;
   text-align: center;
   color: lightblue;
-  font-family: bradley hand, cursive;
+  font-family: Sans-Serif;
 
 }
 
